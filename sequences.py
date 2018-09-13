@@ -12,8 +12,6 @@ def fibonacci(n):
     i = 1
     j = 0
     f = 1
-    if (not n.isdigit())
-        raise Exception('That\'s not even a number')
     if (not n > 0):
         raise Exception('Please enter a positive integer.')
     l = []
