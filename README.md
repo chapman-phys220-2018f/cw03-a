@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 3
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Royal Cuevas and Abigail Wheaton**
 
 ## Specification
 
@@ -31,7 +31,7 @@ Note : the homework this week will be to finish all of the classwork, and includ
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
 
-**CHANGEME**
+**Learned about Travis and how python and bash can be used in conjunction. Was also a nice refresher of python since the last time I coded in that language was 2 years ago.**
 
 ## Honor Pledge
 
@@ -42,4 +42,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Royal Cuevas**
