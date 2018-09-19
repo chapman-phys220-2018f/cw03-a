@@ -9,7 +9,7 @@
 import sequences
 
 def main(argv):
-    print( sequences.fibonacci(int(argv[1]))[int(int(argv[1])-1)], end=",")
+    print( sequences.fibonacci(int(argv[1]))[int(int(argv[1])-1)])
 
 if __name__ == "__main__":
     import sys
