@@ -42,4 +42,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**Royal Cuevas**
+**Royal Cuevas and Abigail Wheaton**
